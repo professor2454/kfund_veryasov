@@ -1,0 +1,44 @@
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 40px;
+
+}
+tr.name{
+    background: rgb(219,33,71);
+    background: linear-gradient(90deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);
+}
+tr.soul{  background: rgb(219,33,71);
+    background: linear-gradient(80deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);
+}
+body{ background-color: url(background: rgb(194,106,86);
+    background: radial-gradient(circle, rgba(194,106,86,1) 0%, rgba(82,15,66,1) 37%, rgba(23,25,70,1) 77%, rgba(5,38,78,1) 100%););}
+tr.time {background: rgb(219,33,71);
+    background: linear-gradient(70deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);}
+    tr.space{background: rgb(219,33,71);
+        background: linear-gradient(60deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);}
+        tr.mind{background: rgb(219,33,71);
+            background: linear-gradient(50deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);}
+            tr.realiti{background: rgb(219,33,71);
+                background: linear-gradient(40deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);}
+                tr.power{background: rgb(219,33,71);
+                    background: linear-gradient(30deg, rgba(219,33,71,1) 5%, rgba(0,212,255,1) 45%, rgba(226,165,112,1) 81%);}
+table{padding: 10%;}
+td { 
+    border: 5px  solid   linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(83,97,223,1) 0%, rgba(238,12,39,1) 47%, rgba(253,187,45,1) 82%);
+text-align: center;
+padding:10px 
+;}
+img.yo { width: 2500px;
+    height: 1000px; 
+}
+h1 {
+    color: rgb(247, 6, 6);
+    text-align: center
+    ;
+
+}
+text { 
+    color: rgb(255, 0, 234);
+
+}
